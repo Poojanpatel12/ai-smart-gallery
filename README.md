@@ -135,6 +135,9 @@ Computer Engineering Student
 Interested in Artificial Intelligence, Machine Learning, Computer Vision, and Backend Development
 
 ---
-### 📜 License
+### ⭐ Support
 
-This project is intended for educational, research, and portfolio purposes.
+If you like this project, consider giving a **star** ⭐ on GitHub!
+Feel free to open issues, suggest improvements, or request new automation workflows.
+This repository will continue expanding with more AI-driven systems.
+
